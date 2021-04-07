@@ -1,10 +1,10 @@
 # Stock-Market-Prediction
 
-### Stock Market Prediction using Numerical and Textual Analysis 
+## Stock Market Prediction using Numerical and Textual Analysis 
 
-## Youtube:-  https://www.youtube.com/watch?v=lIR9JzPKWMk&t=50s
+### Youtube:-  https://www.youtube.com/watch?v=lIR9JzPKWMk&t=50s
 
-# Linkedin:- https://www.linkedin.com/in/ujjwal-saxena-913091188/
+### Linkedin:- https://www.linkedin.com/in/ujjwal-saxena-913091188/
 
 ## Dataset:-
 
